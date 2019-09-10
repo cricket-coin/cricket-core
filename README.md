@@ -6,7 +6,7 @@ Cricket is a decentralized insurance marketplace bringing equitable price discov
 - Anonymized transactions using coin mixing technology, we call it _Privatesend_.
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _InstantSend_.
 
-More information at [cricket-coin.com](http://cricket-coin.com)
+More information at [cricket-coin.com](http://cricketw-coin.com)
 
 ### Coin Specs
 <table>
@@ -18,7 +18,7 @@ More information at [cricket-coin.com](http://cricket-coin.com)
 <tr><td>Masternode Collateral</td><td>1,000 CRK</td></tr>
 <tr><td>P2P port</td><td>42460</td></tr>
 <tr><td>RPC port</td><td>42461</td></tr>
-<tr><td>Max Coin Supply</td><td>5,000,000 CRK</td></tr>
+<tr><td>Max Coin Supply</td><td>10,000,000 CRK</td></tr>
 <tr><td>Premine</td><td>10% *</td></tr>
 </table>
 
