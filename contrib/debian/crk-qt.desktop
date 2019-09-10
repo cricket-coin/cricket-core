@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Cricket
+Comment=Cricket P2P Cryptocurrency
+Comment[fr]=Cricket, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Cricket, eşten eşe kriptografik sanal para birimi
+Exec=crk-qt %u
+Terminal=false
+Type=Application
+Icon=crk128
+MimeType=x-scheme-handler/crk;
+Categories=Office;Finance;

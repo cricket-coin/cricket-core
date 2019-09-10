@@ -1,0 +1,26 @@
+# /etc/conf.d/crkd: config file for /etc/init.d/crkd
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/cricket-coin/crk.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/crkd"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/crkd.pid"
+
+# Where to write crkd data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/crkd"
+
+# User and group to own crkd process
+#BITCOIND_USER="crk"
+#BITCOIND_GROUP="crk"
+
+# Path to crkd executable
+#BITCOIND_BIN="/usr/bin/crkd"
+
+# Nice value to run crkd under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""
