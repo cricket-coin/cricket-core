@@ -6,7 +6,7 @@ Cricket is a decentralized insurance marketplace bringing equitable price discov
 - Anonymized transactions using coin mixing technology, we call it _Privatesend_.
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _InstantSend_.
 
-More information at [cricket-coin.com](http://cricketw-coin.com)
+More information at [cricket-coin.com](http://cricket-coin.com)
 
 ### Coin Specs
 <table>
